@@ -1,15 +1,8 @@
 @import "tailwindcss";
 
-:root {
-  color-scheme: light;
-}
-
+html,
 body {
+  padding: 0;
   margin: 0;
-  background: #f8fafc;
-  color: #0f172a;
-}
-
-textarea, input, button {
-  font: inherit;
+  font-family: sans-serif;
 }
